@@ -1,0 +1,20 @@
+## Prompt Template
+Please use the following template when adding prompts to the repository:
+
+```markdown
+# Title
+
+### Reason to Use
+
+(Provide a brief description or context for the prompt.Explain how this prompt can be used, its intended purpose, or potential outcomes.)
+
+
+### Prompt Tempate
+
+(Include an example or template of the prompt.)
+
+### Additional Information
+
+(Add any relevant additional information, tips, or resources related to the prompt.)
+
+---
